@@ -14,4 +14,4 @@ for line in inputHtml:
 
 for items in link: 
     webbrowser.open(items)
-    time.sleep(5)
+    time.sleep(10)
